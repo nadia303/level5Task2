@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44f095e0-2452-475b-973e-dd7685063760" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/build/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/src/index.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/src/index.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/level5Task2/simple-typescript-starter/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-typescript-starter/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/simple-typescript-starter/.eslintrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-typescript-starter/build/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-typescript-starter/build/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple-typescript-starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/simple-typescript-starter/package-lock.json" afterDir="false" />
@@ -37,7 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="ts.external.directory.path" value="C:\Users\Immortal\WebstormProjects\level5 2\simple-typescript-starter\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\Immortal\WebstormProjects\level5 2\level5Task2\simple-typescript-starter\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -78,17 +85,18 @@
       <workItem from="1614438043988" duration="634000" />
       <workItem from="1614859207766" duration="8589000" />
       <workItem from="1614952629667" duration="1035000" />
-      <workItem from="1614954400587" duration="29809000" />
+      <workItem from="1614954400587" duration="31570000" />
+      <workItem from="1615241859967" duration="1110000" />
+      <workItem from="1615292389367" duration="12756000" />
+      <workItem from="1615394086999" duration="913000" />
+      <workItem from="1615408311010" duration="2171000" />
+      <workItem from="1615467372484" duration="205000" />
+      <workItem from="1615499883821" duration="2821000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/ts/level5t2.js" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

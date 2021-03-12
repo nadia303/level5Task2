@@ -5,6 +5,8 @@
     <mapping directory="$PROJECT_DIR$/level3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/level4/level4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/level5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/level5Task2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/level5Task2/simple-typescript-starter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/simple-typescript-starter" vcs="Git" />
   </component>
 </project>
